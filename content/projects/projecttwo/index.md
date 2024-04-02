@@ -1,6 +1,6 @@
 +++
 title = 'Project Two'
-description = This was the second project.
+description = 'This was the second project.'
 date = 2024-04-02T17:33:20Z
 draft = false
 +++
