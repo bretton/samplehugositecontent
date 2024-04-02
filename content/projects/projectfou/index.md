@@ -1,9 +1,9 @@
----
-title: "Project Four"
-description: "An imbuing station ceremony"
-cascade:
-  showReadingTime: false
----
++++
+title = 'Project Four'
+description = An imbuing station ceremony
+date = 2024-04-02T17:33:20Z
+draft = false
++++
 
 # Heading
 

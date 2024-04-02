@@ -1,9 +1,9 @@
----
-title: "Project One"
-description: "This was an intricate project."
-cascade:
-  showReadingTime: false
----
++++
+title = 'Project One'
+description = This was an intricate project.
+date = 2024-04-02T17:33:20Z
+draft = false
++++
 
 # Heading
 
