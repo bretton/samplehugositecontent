@@ -14,10 +14,7 @@ diam vel interdum feugiat, est nisi rhoncus odio, et convallis dui nunc et torto
 semper luctus vel in ex. Integer ultricies ullamcorper consequat. Morbi dictum tincidunt est. Donec imperdiet 
 tortor eget nunc fermentum, sed pretium augue ornare. Aenean eleifend euismod euismod. 
 
-{{ $image := .Resources.Get "iwand.jpg" }}
-{{ with $image }}
-  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-{{ end }}
+<img src="{{ "iwand.jpg" | relURL }}" alt="iWand 6000">
 
 ## Subheading
 
