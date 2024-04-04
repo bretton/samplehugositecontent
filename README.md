@@ -1,8 +1,8 @@
 # samplehugositecontent
 
-This repo is for sample hugo site content to import into a hugo site
+This repo is for sample hugo site content to import into a hugo site.
 
-Very much WIP currently.
+The sample content is a fictional store with blog.
 
 ## Pages
 
@@ -16,5 +16,3 @@ Blog posts are directories in the format `YYYY-MM-DD` in the diretory `content/b
 ## Images
 
 Site background and featured images must go in `assets/img/..`
-
-
