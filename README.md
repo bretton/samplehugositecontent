@@ -16,3 +16,8 @@ Blog posts are directories in the format `YYYY-MM-DD` in the diretory `content/b
 ## Images
 
 Site background and featured images must go in `assets/img/..`
+
+
+# References
+
+Animated svg for sample pages from https://loading.io
